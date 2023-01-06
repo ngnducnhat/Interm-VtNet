@@ -6,7 +6,9 @@ Giao thức HTTP - Hypertext Transfer Protocol
 [I. Mô tả giao thức](#i-mô-tả-giao-thức) 
 
 [II. Cơ chế hoạt động](#ii-cơ-chế-hoạt-động)
+
 [III. Giao thức HTTP](#iii-giao-thức-http)
+
 - [Request method](#1-request-method)
 - [Response code](#2-response-code)
 - [Header and Security](#3-header-and-security)
